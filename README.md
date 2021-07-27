@@ -27,13 +27,13 @@ Classifier.ipynb contains .............
 
 ## Tools used
 We have used 
-  -`pandas` to analyse data
-  -`re` to clean the data
-  -`NLTK` to tokenize
+  - `pandas` to analyse data
+  - `re` to clean the data
+  - `NLTK` to tokenize
   - a custom stopword file (stopword.txt) to identify stopwords
-  -`polyglot` library for NER
-  -`wordcloud` python package and `mathplotlib.pyplot` to make wordclouds
-  -`stanza` to POS tag
-  -____ to make the analysis graphs. 
+  - `polyglot` library for NER
+  - `wordcloud` python package and `mathplotlib.pyplot` to make wordclouds
+  - `stanza` to POS tag
+  - ____ to make the analysis graphs. 
   
 ## Dataset Used
