@@ -37,6 +37,10 @@ We have used
   - `wordcloud` python package and `mathplotlib.pyplot` to make wordclouds
   - `stanza` to POS tag
   
-  ## Results
-
+## Results
+### Classifier one
+its reults
+### Classifier two
+its result
+</br>
 The report.pdf contains the analysis of the graphs obtained in the process and some other observations.
