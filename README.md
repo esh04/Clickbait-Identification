@@ -1,5 +1,5 @@
 # Clickbait-Identification
-In this project we have compared the properties of Clickbait titles vs Non-Clickbait titles. <Write about classifiers>
+In this project we have compared the properties of Clickbait titles vs Non-Clickbait titles. We have then classified the data using _____________. </br>
 The project is done in Hindi. Created for the course project of the Spring '21 Course - Computational Linguistics -1.
 
 ## Tasks
