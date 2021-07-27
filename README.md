@@ -42,5 +42,5 @@ We have used
 its reults
 ### Classifier two
 its result
-</br> </br>
+###
 The report.pdf contains the analysis of the graphs obtained in the process and some other observations.
