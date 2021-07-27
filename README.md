@@ -25,15 +25,17 @@ In Clickbait.ipynb all the above analysis have been made for Clickbait titles vs
 ## Classifying Data
 Classifier.ipynb contains .............
 
+## Dataset Used
+  
 ## Tools used
 We have used 
-  - `pandas` to analyse data
+  - `pandas` to analyse data and make the required graphs
   - `re` to clean the data
   - `NLTK` to tokenize
   - a custom stopword file (stopword.txt) to identify stopwords
   - `polyglot` library for NER
   - `wordcloud` python package and `mathplotlib.pyplot` to make wordclouds
   - `stanza` to POS tag
-  - ____ to make the analysis graphs. 
   
-## Dataset Used
+  ## Results
+
