@@ -13,7 +13,7 @@ The project is done in Hindi. Created for the course project of the Spring '21 C
 Analysis is done on the basis of-
 1. Number of tokens
 2. Presence of Question mark
-3. Presence of Exclaimation mark
+3. Presence of Exclamation mark
 4. Presence of quotations
 5. Number of stopwords
 6. Presence of numerals
