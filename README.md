@@ -30,13 +30,14 @@ Classifier.ipynb contains the scaled version of data generated and code to make 
   
 ## Tools used
 We have used 
-  - `pandas` to analyse data and make the required graphs
+  - `pandas` to analyse data 
   - `re` to clean the data
   - `NLTK` to tokenize
   - a custom stopword file (stopword.txt) to identify stopwords
   - `polyglot` library for NER
   - `wordcloud` python package and `mathplotlib.pyplot` to make wordclouds
   - `stanza` to POS tag
+  - `mathplotlib` and `seaborn` have been used to make the graphs.
   
 ## Results
 ### Classifier 1: Logistic Regression
