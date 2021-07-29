@@ -1,6 +1,6 @@
 # Clickbait-Identification
 In this project we have compared the properties of Clickbait titles vs Non-Clickbait titles. We have then classified the data using simple classifier models such as SVMs, Logistic Regression and XGBoost. </br>
-The project is done in Hindi. Created for the course project of the Spring '21 Course - Computational Linguistics -1.
+The project is done in Hindi. Created for the course project of the Spring '21 Course - Computational Linguistics-1.
 
 ## Tasks
 1. Preprocess the dataset
@@ -11,14 +11,14 @@ The project is done in Hindi. Created for the course project of the Spring '21 C
   
 ## Analysis
 Analysis is done on the basis of-
-1. Number of tokens
-2. Presence of Question mark
-3. Presence of Exclamation mark
-4. Presence of quotations
-5. Number of stopwords
-6. Presence of numerals
-7. The entities present
-8. POS tags
+1. Number of Tokens
+2. Presence of Question Marks
+3. Presence of Exclamation Marks
+4. Presence of Quotations
+5. Number of Stopwords
+6. Presence of Numerals
+7. The Entities Present
+8. POS Tags
 
 In Clickbait.ipynb all the above analysis have been made for Clickbait vs Non-Clickbait sentences. 
 
@@ -33,7 +33,7 @@ We have used
   - `pandas` to analyse data 
   - `re` to clean the data
   - `NLTK` to tokenize
-  - a custom stopword file (stopword.txt) to identify stopwords
+  -  A custom stopword file (stopword.txt) to identify stopwords
   - `polyglot` library for NER
   - `wordcloud` python package and `mathplotlib.pyplot` to make wordclouds
   - `stanza` to POS tag
