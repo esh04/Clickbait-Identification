@@ -41,10 +41,11 @@ We have used
   
 ## Results
 ### Classifier 1: Logistic Regression
-Highest accuracy achieved was:
+Highest accuracy achieved was:  0.6874
 ### Classifier 2: SVMs
-Highest accuracy achieved was:
+Highest accuracy achieved was:  0.7068
 ### Classifier 3: XGBoost
-Highest accuracy achieved was:
+Highest accuracy achieved was:  0.7001 
+
 ##
 The report.pdf contains the analysis of the graphs obtained in the process and some other observations.
